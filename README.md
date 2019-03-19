@@ -72,7 +72,7 @@ Be sure to be creative and not to fall into the last 5 main types. Create quest 
 
 Depending on what designers you ask you will get different answers. What most of them have in common are 4 main uses. Let’s tackle each one individually to expand our knowledge
 
-1. **Creating a playground for the player to develop his own character.**
+**Creating a playground for the player to develop his own character.**
 
 
 <p align="center">
@@ -96,7 +96,7 @@ First the will present a broad problem to a player in a way he may feel attracte
 
 When it comes to decision making in games, letting the player know the consequences of his action before is important. At the same time, is substantial for the player to have the opportunity to go around and change his mind midway through the quest. This usually involves presenting the player with a decisive factor previously unknown that will make him thought about his action. This will deeply affect the sensation of the player into a more realistic experience, in real life decisions have consequences and different perspective depending on who you ask, and the player knows this.
 
-2. **A way to guide the player through the experience, guiding him without him deliberately knowing so**
+**A way to guide the player through the experience, guiding him without him deliberately knowing so**
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/wow%20what%20are%20quest.jpg">
@@ -116,7 +116,7 @@ If we a designers create quest for the purpose of moving the player to the next 
 
 And this lead us to the next point.
 
-3. **Creating a World that feels alive and develop the player immersion in the game even further**
+**Creating a World that feels alive and develop the player immersion in the game even further**
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/witcher%20what%20are%20quest.jpg">
@@ -136,7 +136,7 @@ If you read or ask anyone, they will tell you, that one of the most important th
 
 Each quest is a unique adventure that the player life’s, with a deeper narrative meaning. Some of this with even greater stories than most games.
 
-4. **Give the player many possible activities to kept him in game with a freedom of what to choose from**
+**Give the player many possible activities to kept him in game with a freedom of what to choose from**
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/skyrim%20what%20are%20quest.jpg">
@@ -148,7 +148,7 @@ Doing many times the same thing, like grinding, or farming, it’s very annoying
 
 For many online games, this is also a factor of profitability. Many of these depend on a public that is playing a game for years, and in some cases with monthly subscriptions and they need new content to stick around and complete, and with a variety of actives we assure they will stick around with us, rather than with any other entertainment method.
 
-5. **Supporting the main and core idea of the game.**
+**Supporting the main and core idea of the game.**
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/Nier%20what%20are%20quest.jpg">
@@ -182,19 +182,19 @@ In an interview with Koichi Hayashida, Lead designer in the super Mario 3D last 
 
 This exactly are our four main Xs. That followed in this order will help our audile toward completing an objective or a problem. Well proceed to explain them:
 
-1. **Explore the word**
+**Explore the word**
 
 First we introduce a concept for the player to explore around it, think about it and develop a specific orientation towards it.
 
-2. **Expand the area discover**
+**Expand the area discover**
 
 Now that the player understand what’s happening, let make sure he master this new idea, giving a safe environment where he can put to test the use of their new abilities, but in case of failing, there is no penalty.
 
-3. **Exploit mechanics**
+**Exploit mechanics**
 
 Once they have accomplish to master it, will add a twist to it, adding a sense of importance to every decision or action made. Now we are not working on a safe environment any more. Adding a sense of danger will increase the player tension and give more meaning to what he is doing.
 
-4. **Exterminate**
+**Exterminate**
 
 At the end we arrive at the conclusion, were the player is presented the opportunity to end a task, and if he has mastered all the previous steps and put it into practice, it will be easier and beneficial to him. Granting a sense of reward toward the self-improvement process. Making the player feed capable and good about its own progress will be a perfect feedback to keep him engaged.
 
