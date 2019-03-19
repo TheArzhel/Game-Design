@@ -1,6 +1,6 @@
 
 
-I am <https://www.linkedin.com/in/andr%C3%A9s-saladrigas-35a0a5107/>(Andres Saladrigas), student of the <https://www.citm.upc.edu/ing/estudis/graus-videojocs/>(Bachelor's Degree in Video Games by UPC at CITM). This content is generated for the second year's subject Project 2, under supervision of lecturer <https://es.linkedin.com/in/ricardpillosu>(Ricard Pillosu).
+I am [Andres Saladrigas](https://www.linkedin.com/in/andr%C3%A9s-saladrigas-35a0a5107/), student of the [Bachelor's Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year's subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).
 
 # Index
 
@@ -17,6 +17,7 @@ I am <https://www.linkedin.com/in/andr%C3%A9s-saladrigas-35a0a5107/>(Andres Sala
 11. [How to make a good quest, wrap up](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#how-to-make-a-good-quest-wrap-up)
 12. [Webgraphy](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#webgraphy)
 13. [Videography](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#videography)
+14. [Exercise]()
 
 
 # What is a quest?
@@ -55,7 +56,7 @@ If we classify quests in types, we will find 5 main structure that repeat in alm
 
 By reading this, you will probably think about any game you have seen and classify the quest in this 5. But why does many games center in only this main 5 structures?
 
-It’s a fact of design. Usually quest are used to move the player attention to the right spot, and with this structure, is easy to tell ere the next important area is or where is the next zone for you to grind.
+It’s a fact of design. Usually quest are used to move the player attention to the right spot, and with this structure, is easy to tell where the next important area is or where is the next zone for you to grind.
 
 But is it really a good quest design to follow this structure? The short answer is, no.
 
@@ -126,7 +127,7 @@ And this lead us to the next point.
 
 When we talk of quest design is impossible not to talk about the big reference that is the Witcher games. For the ones that do not know, and are interested in quest design, I suggest them to play at least the last game and complete some quest with a designer point of view rather than from the player’s perspective.
 
-What CD project Red has accomplished is to create a whole new world with a quality implementation of quests and narrative. Their main objective and structure around quests that we will take more about, is centered in giving every quest, eve with the smallest ones, a history, a twist and a meaning to be there. Rather than making quest just to fill the number of hours that the player is in the game, in the Witcher games, each quest has an objective. From making the player to interact and understand more with Gerald, the main character, for them to understand his personality or create compelling side stories that the player would love to hear.
+What CD projeckt Red has accomplished is to create a whole new world with a quality implementation of quests and narrative. Their main objective and structure around quests that we will take more about, is centered in giving every quest, eve with the smallest ones, a history, a twist and a meaning to be there. Rather than making quest just to fill the number of hours that the player is in the game, in the Witcher games, each quest has an objective. From making the player to interact and understand more with Gerald, the main character, for them to understand his personality or create compelling side stories that the player would love to hear.
 
 Through all human history there is one thing that humans have always loved, storytelling. From painters in caves to middle ages troubadours, from literature to movies, people do love a good story, and that’s why this designers nailed it. Each quest have been work around and creating a narrative, dialogues and they all feel real. They decided to give al histories a decision making factor where there is no evident wright or wrong answer, and each with their own consequences you will have to live with. By creating an atmosphere where decisions are important and lively characters that will react to your decisions, the player feels more immersed on the gameplay and recreates real life structures that he may identify with from the outside word, giving it a sense of realism.
 
@@ -168,7 +169,7 @@ In this case let me tackle Nier: Automata as a great example of how quest goes a
 
 By following this formula, the quest will give bits of information to the player that he will thread and start to understand, and in the process he will naturally look forward to more, to find out what’s the real story behind the scenes.
 
-# The for main EXs
+# The four main Xs
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/mario%203d%20land%20main%20xs.jpg">
@@ -383,12 +384,24 @@ Coming back to how the mind works, I have come up with a method to help you deve
 It all comes down to patterns. As human beings, our minds are prone to follow some structures and ideas that we gather in our brain and form kind of nets that connects points of information, in order to memorize, store and retrieve information from our head.
 When we learn new things, our mind forms organize structures and patterns, with time , we develop the sufficient skills to find this new patters every way we look, being it easier to divide new knowledge into small bits and to solve problems.
 Many of us surely has played many games that through repetition, teaches the player to follow some steps to learn a mechanics the game centers on. When your brain incorporate this knowledge, you usually start to find similar patterns and think like in the game in real life. Two main examples comes in mind, Assassins creed and the witness.
-I am sure many assassin’s creed player, once they master the climbing system, the start seeing real life buildings and unconsciously look for parts were they would be able to climb if it was like in the game. Or for example in the witness were the players is forced to look for path and patterns in nature to follow some lines and complete puzzles, and when coming to real life, players may find patterns in nature where they haven’t seen anything before.
+
+I am sure many Assassin’s Creed player, once they master the climbing system, the start seeing real life buildings and unconsciously look for parts were they would be able to climb if it was like in the game. Or for example in The Witness were the players is forced to look for path and patterns in nature to follow some lines and complete puzzles, and when coming to real life, players may find patterns in nature where they haven’t seen anything before.
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/asasins%20creed%20pattern.png">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/the%20witness%20patterns.jpg">
+</p>
+
+###### Assassin’s Creed climbing and The Witness patterns
+
 As referenced before, this comes from our brain capability of pattern recognition skills. Once you master a subject, it will naturally show you things that follow the same structure.
+
 The important factor here is to take advantage of this natural talent we all have and use it in our advantage.
 As you master and understand all points we have come up in this research, from thinking it for day and looking for examples and games were they take form, our brain will naturally start to think this way and will provide you with daily life information that follows the thing we have been looking for.  Thins way you will have much more material to come up with ideas or refine them, and at the same time they will be natural and relatable to players, adding a great touch to the designed experience.
 Think about thins concept for days and sleep well, during night your brains goes down to different stages were it will naturally review and incorporate your knowledge in your mind. Come up with ideas think about them, relate them to the structure you have learned here and sleep. Yea you read that right, sleep it is a key element when learning new pattern and coming up with new ideas, creativity.
+
 If you master a subject am sure it will work.
+
 Last if you are interested in the subject and like to know more about how our mind works on patters I, once again suggest you to google it. I am sure you will learn new concepts that may help you in everyday life, as so in quest design.
 
 # How to manage the process of creating a quest?
@@ -410,17 +423,17 @@ I will make a guide with how to manage the process of creating quests inside a s
 
 As you may expect, the first step is to come up with an idea for the chapter or side quest. Then sit down and write down the ideas for your quest. Collect these quest ideas and write them down into the game design document. Many ideas are collected but not all of them are going to be in the game. Once you are sure of the idea, go on and talk to friends and coworkers. Be sure the idea and the story have a level design sense, a gameplay, and narrative. If you are done talk to the lead designer and in the process, modify anything needed
 
-**Logic**
+**Logic steps**
 
 Now that you have define, what the experience is going be like, start to organize and take care of the planning. Make a list of what do you need. Dialogs, characters, items, anything. In addition, document it so any team in the studio know what to do.
 
 Once done create placeholder dialogues and create a scrip for how does the quest must go on. If you have any cinematics, specify how will they be, or anything of importance that will lead the team making it help understand what to do
 
-**Level Structure**
+**Quest and World Structure**
 
 Now we go on to produce the quest, let us take in mind the bases of our game, thematic and mechanics. Respect the basic rules of your world, like timing, or especial events, and design the quest in order to follow those. Decide and implement how the player will need to react with the desired entity that will give out the quest.
 
-**Start to develop the quest**
+**Start development**
 
 Once everything before is done start to structure your quest as events and triggers, set the dialogues, information, cinematics everything how it will happen. By these steps, you will already have the sufficient tool provided by your team to create a solid base to work and test the quest around. You may use your previous lines or elements need as placeholders for you to be able to test around the quest
 
@@ -543,3 +556,7 @@ Game makers Toolkit Video: Anatomy of a Side Quest: Beyond the Beef
 Game makers Toolkit Video: Super Mario 3D World’s 4 Step Level Design
 
 [https://www.youtube.com/watch?v=dBmIkEvEBtA](https://www.youtube.com/watch?v=dBmIkEvEBtA)
+
+# Exercise
+
+There is a PDF with a exercise for you to practice and start getting the main idea and process of quest design. If you want to check it out you may download it [here](https://github.com/TheArzhel/Game-Design/blob/gh-pages/Quest%20Design%20Exercise.pdf)
