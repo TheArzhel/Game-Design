@@ -194,7 +194,7 @@ Now that the player understand what’s happening, let make sure he master this 
 
 Once they have accomplish to master it, will add a twist to it, adding a sense of importance to every decision or action made. Now we are not working on a safe environment any more. Adding a sense of danger will increase the player tension and give more meaning to what he is doing.
 
-4. **Exterminate **
+4. **Exterminate**
 
 At the end we arrive at the conclusion, were the player is presented the opportunity to end a task, and if he has mastered all the previous steps and put it into practice, it will be easier and beneficial to him. Granting a sense of reward toward the self-improvement process. Making the player feed capable and good about its own progress will be a perfect feedback to keep him engaged.
 
