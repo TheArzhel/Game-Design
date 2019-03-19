@@ -4,19 +4,19 @@ I am <https://www.linkedin.com/in/andr%C3%A9s-saladrigas-35a0a5107/>(Andres Sala
 
 # Index
 
-1. **What is a quest?**
-2. **Quests, types and orientation**
-3. **What are quest for, and How to do it?**
-4. **The for main EXs**
-5. **Quest vs mission**
-6. **How to manage the player attention correctly**
-7. **Receiving quests**
-8. **What you want to avoid**
-9. **How to come up with ideas**
-10. **How to manage the process of creating a quest?**
-11. **How to make a good quest, wrap up.**
-12. **Webgraphy**
-13. **Videography**
+1. [What is a quest?](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#what-is-a-quest)
+2. [Quests, types and orientation](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#quests-types-and-orientation)
+3. [What are quest for, and How to do it?](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#what-are-quest-for-and-how-to-do-it-correctly)
+4. [The for main EXs](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#the-for-main-exs)
+5. [Quest vs mission](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#quest-vs-mission)
+6. [How to manage the player attention correctly](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#how-to-manage-the-player-attention-correctly)
+7. [Receiving quests](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#receiving-quests)
+8. [What you want to avoid](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#what-you-want-to-avoid)
+9. [How to come up with ideas](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#how-to-come-up-with-ideas)
+10. [How to manage the process of creating a quest?](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#how-to-manage-the-process-of-creating-a-quest)
+11. [How to make a good quest, wrap up](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#how-to-make-a-good-quest-wrap-up)
+12. [Webgraphy](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#webgraphy)
+13. [Videography](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#videography)
 
 
 # What is a quest?
