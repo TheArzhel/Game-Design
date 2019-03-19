@@ -21,6 +21,10 @@ I am <https://www.linkedin.com/in/andr%C3%A9s-saladrigas-35a0a5107/>(Andres Sala
 
 # What is a quest?
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/Maps-Quest-icon.png">
+</p>
+
 By the cambric dictionary, a quest is &quot;a long search for something that is difficult to find, or an attempt to achieve something difficult&quot;. But what happens when we talk about videogame quests? What do players and developers understand by quest?
 
 When we talk about Questing in videogame, we usually refer to a journey that the main character is taking by his own will or a specific task that was given to him. Quests go from the main story, to parallel ones to minor details or even unrelated plot lines that totally differ from the main narrative of the game.
@@ -34,6 +38,11 @@ As you may expect, we’ll be probably referring some games in the process, like
 Let’s get to it.
 
 # Quests, types and orientation.
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/tera%20killing%20quest.jpg">
+</p>
+### Tera Killing quest
 
 If we classify quests in types, we will find 5 main structure that repeat in almost every game
 
@@ -59,9 +68,16 @@ Be sure to be creative and not to fall into the last 5 main types. Create quest 
 
 # What are quest for and how to do it correctly?
 
+
 Depending on what designers you ask you will get different answers. What most of them have in common are 4 main uses. Let’s tackle each one individually to expand our knowledge
 
 1. **Creating a playground for the player to develop his own character.**
+
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/fall%20out%20new%20vegas%20%20what%20are%20quest.jpg">
+</p>
+
 
 Taking a quote from Chis Avellone, quest designer for fall out series:
 
@@ -79,6 +95,11 @@ When it comes to decision making in games, letting the player know the consequen
 
 2. **A way to guide the player through the experience, guiding him without him deliberately knowing so**
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/wow%20what%20are%20quest.jpg">
+</p>
+#### Word of Warcraft quests
+
 This is a delicate one, depending on your game and your design criteria you may want to lead the player through the gameplay avoiding him to get lost thought the game and steps to follow. If desired so, using quest to guide him must be dealt with extreme caution, as players like to feel the freedom as we told on the point above.
 
 In an interview, the gameplay director from Word of Warcraft _Wrath of the Lich King,_ Jeffrey Kaplan, explain how quest has been used in the series to create a safe environment where they are introduced to key concepts, deep into main mechanics, explore the world, and master the environment.
@@ -87,11 +108,16 @@ We will need to be careful and explain the nature of the design here.
 
 Many RPGs uses the different types of quest named before, to orientate the player attention to certain aspects of the game, rather than designing the quest to create a more engaging experience and in the process give some hints of what should be next.
 
-If we a designers create quest for the purpose of moving the plyer to the next spawn, quest, or town, is highly probable that the players will lack interest in our quest, because they can find those by their own means without someone telling them what to do. What we want to remember is that players must be attracted to quests, they should like to make them and not just for the reward.
+If we a designers create quest for the purpose of moving the player to the next spawn, quest, or town, is highly probable that the players will lack interest in our quest, because they can find those by their own means without someone telling them what to do. What we want to remember is that players must be attracted to quests, they should like to make them and not just for the reward.
 
 And this lead us to the next point.
 
 3. **Creating a World that feels alive and develop the player immersion in the game even further**
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/witcher%20what%20are%20quest.jpg">
+</p>
+#### Witcher 3 quests
 
 When we talk of quest design is impossible not to talk about the big reference that is the Witcher games. For the ones that do not know, and are interested in quest design, I suggest them to play at least the last game and complete some quest with a designer point of view rather than from the player’s perspective.
 
@@ -107,11 +133,21 @@ Each quest is a unique adventure that the player life’s, with a deeper narrati
 
 4. **Give the player many possible activities to kept him in game with a freedom of what to choose from**
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/skyrim%20what%20are%20quest.jpg">
+</p>
+#### Skryrim quests
+
 Doing many times the same thing, like grinding, or farming, it’s very annoying, and we live in a world where we have a lot of competitors. AS developers we want players to be involved in our games the higher amount of time possible, not only for the economical factor, but because if they stay with us it means we have done it correctly and they will keep with us in the future. That’s why designers create different kind of quest with different purpose to fulfill different needs for all the players. If he desires to explore or to collect items for crafting, he may have the possibility to do so and at the same time walk through and amazing narrative that will keep him interested in our game.
 
 For many online games, this is also a factor of profitability. Many of these depend on a public that is playing a game for years, and in some cases with monthly subscriptions and they need new content to stick around and complete, and with a variety of actives we assure they will stick around with us, rather than with any other entertainment method.
 
 5. **Supporting the main and core idea of the game.**
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/Nier%20what%20are%20quest.jpg">
+</p>
+#### Nier: Automata quests
 
 With our game pillars set and known, we must decide to create an experience that reinforces the core of our narrative structure and that complies with the feeling we are willing to induce in the players mind.
 
@@ -126,6 +162,11 @@ In this case let me tackle Nier: Automata as a great example of how quest goes a
 By following this formula, the quest will give bits of information to the player that he will thread and start to understand, and in the process he will naturally look forward to more, to find out what’s the real story behind the scenes.
 
 # The for main EXs
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/mario%203d%20land%20main%20xs.jpg">
+</p>
+#### 3D Mario game design
 
 If we talk about Game Design in general sooner or later we will arrive to a main techniques many games follow. The 4 main Exes is a structured way of presenting something to the player for him to be able to adapt to it and learn from it. It can be apply to any aspect of design process and it being used in online games, single player games, RPGs and platformers.
 
@@ -161,13 +202,24 @@ Let’s not forget this techniques are not just for storytelling, but for introd
 
 # **Quest vs mission**
 
+
 There are many words used to describe them, quest, mission, tasks, even shores. But is there any difference between them?
 
 Going back to the start of the article, where we define a quest, we defined it as a difficult or mayor objective. But let’s think about games, if you think carefully there are two main structures, one that follows this description and other who doesn’t. This is where I draw a line.
 
 First of all if you think about more RPGs if you think in a common mission, a gathering or killing quest. Where someone ask you to do something and then gives you a reward. What we have just described it’s what I call a mission. A mission is given by an NPC to the player asking for help and not much detailed or narrative structure of relevance is made around it. There are game that are full of this ones. This missions are more like tasks or shores you need to complete, and the motivation to made them are completely extrinsic, if we talk about the psychological aspect of the player, usually the only motivation the player has to complete them is the gear and experience reward, not because there are interested. And from a design perspective, it’s what we mention earlier, they are made to point the player thought the game. Complete a mission and get loot as a reward. There is no more to it.
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/mmo%20missions.jpg">
+</p>
+#### MMO missions
+
 Then there are the Quest. Here we can find anything that has more of a narrative core structure that is aiming to astonish the player and make him emotions and inside the game, they give meaning to whoever is playing them. As we described, there are usually mayor and more complex or difficult. Looking closely this quest are usually guided in small steps that the player must follow to organically found and complete a mission without the new of explicitly telling him how to do it or where to go. Usually the experience, the history, and the design gives him an idea on what’s the next logical thing to do and they will head right in to complete it. If we analyze this structure, we may find that the main plot does fall into the category of quest as does main side quests, they all follow and important narrative that guide the player through an experience toward completing some task without them being extremely obvious. But what about the reward? As missions have loot, the rewards for quest are more wither and not always son physical. Most of the time the quest itself is a reward, like we told earlier, giving the player the opportunity to explore and go around with an interesting story they can interact with, and with it comes the meaning it comes with ne narrative, supporting the main idea or pillars of the game, giving the player a wider view of the problematic, more understanding and knowledge that keeps the player hungry for more quests. Rewards are also the emotions, the cinematics and the music that he player experiences during an adventure. Rewards can be subtle, you don’t need to tell the player here is your reward. If done correctly they will come looking for more thrilling experiences rather than go back looking for specific quest for more loot.
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/skyrim%20main%20quest.png">
+</p>
+#### Skyrim main mission
 
 The main point here is to understand there are two ways to tackle a problem. Through missions or quest. From a quest design view is more beneficiate to go for quest, even if they are small, no need to go big, but give all the missions a meaning of being in the world by combing them an transforming them into a quest.
 
@@ -177,6 +229,7 @@ Image of circles where
 
 # How to manage the player attention correctly
 
+
 If we desire to make create, good experiences for the player we must also look to the psychological factors that will help us deliver a good and quality experience directly to our users mind.
 
 Here we will come up with some ways to gather your player’s attention correctly and some facts about human behavior that may help us create new content.
@@ -184,6 +237,10 @@ Here we will come up with some ways to gather your player’s attention correctl
 At a psychological factor, what makes player go on and desire quests? One of our goals is to satisfy his needs with a quality product, but in the other hand how can we make them desire a new experience or attract their attention intelligently to new areas?
 
 When it comes to **creating solid quest** , we can take into account some behavioral patterns that most people follow.
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/psycology%20of%20games.png">
+</p>
 
 **Sets and collection:** probably you may have seen videogames or even tabletops games that uses sets of items to gather the player’s attention toward some mission. When it comes to completing a collection and gathering items from a set, a basic human instinct is triggered. The origin comes from many years ago were the human’s walk around discovering and gathering resources, creating through the years a feeling of needing to take or possess something. At the same time, it mixes up with the satisfaction people feel when completing a whole set of things and looking them all together. It gives feeling of empowerment to the players, as he was able to obtain all the articles. Same experience of competition comes, if you may remember, when you finally finished a table traditional puzzle. Seeing all the pieces together forming and image game us a satisfaction after all the time looking at the individual elements. Looking at the hole is more than looking to all the parts together.
 
@@ -208,6 +265,10 @@ However, psychologist suggest that we present better result with positive reward
 My objective here is to give you little bits of information that can be useful from the psychology point of view of the player, but it is a whole area of study, if you are interested I suggest you go and look out for behavioral theory in the internet. There is much to learn from it.
 
 Last, when talking about **attention** we may want to hold close to attention studies in the psychology field.
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/player%20attention.png">
+</p>
 
 I will work my best to explain this briefly, if you feel interested and want to dive deeper I suggest starting at the beginning of neurophysiology of attention.
 
@@ -235,11 +296,21 @@ Some more internal factor to gather the player atteinton, we have coverd them pr
 
 # Receiving quests
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/maplestory%20quest.JPG">
+</p>
+#### Maplestory quests
+
 With all this data we can talk about how to gives players quests in a great and ordered way.
 
 Its important o be creative and do not follow the standard MMORPG style of giving quest pointing to npcs with exclamation marks or light bulbs over their head, as talk before we would like to create a more organic feeling.
 
 With all the attention resources, we may come up with good and a natural flow to direct the player involuntary attention towards quest.
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/skyrim%20organic%20quest.png">
+</p>
+#### Skyrim organic quest element
 
 As fall out New Vegas does, for example, they do not point you directly to a mission or tells you what NPCs to talk. The create stimuli that calls the player attention, in combination with level design, that will lead the player to be curious and look more information about some stimuli, in the process he will encounter different elements, from the environment or NPCs that make inform him and then naturally talk them about something interesting.
 
@@ -260,6 +331,11 @@ Other way may be a more discrete way like in Mario or Zelda games, where the pla
 Follow the best approach for your game, but usually, the more organic and natural, the better.
 
 # What you want to avoid
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/wow%20quest%20avoid.jpg">
+</p>
+#### WoW image
 
 Either if you are new, or experienced in this designer’s universe, it is always useful to look on the errors from other games, to learn from them and not follow the same steps. In this case, we have the luck of having some articles from Game director Jeffrey Kaplan from Blizzard’s World of Warcraft, which shared some design approaches and issues that in their long MMORPG experience they have come up with. Without further to says, let us get to it.
 
@@ -285,6 +361,10 @@ have in mind the amount of quest and their objective that the layer has in every
 
 # How to come up with ideas
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/pattern%20recognition.png">
+</p>
+
 In game design, we are all the time farming for new ideas and ways to do and cretae things. We need to be open minded in order to develop the sufficient creative skills to solve our daily challenges. How can we be sure to have always great and achievable ideas?
 Coming back to how the mind works, I have come up with a method to help you develop new ideas over time with ease.
 
@@ -300,6 +380,11 @@ If you master a subject am sure it will work.
 Last if you are interested in the subject and like to know more about how our mind works on patters I, once again suggest you to google it. I am sure you will learn new concepts that may help you in everyday life, as so in quest design.
 
 # How to manage the process of creating a quest?
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/methodology.jpg">
+</p>
+
 
 I will start with two quotes from the team members of the Witcher 3 quest design team
 
@@ -348,6 +433,11 @@ This is how CD Projeck Red used to classify their team when creating the quest.
 You may adapt this process to a simpler, indie studio or even for yourself. Take into account the same steps to follow. Change and iterate with placeholders and design an experience with all we have talk about before. Test it modify and once it working, work in the final details like final dialogs, art, models and anything appearance related. This model will help you to work only properly and importantly do not loose working hours in irrelevant or unused creations.
 
 # How to make a good quest, wrap up.
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Game-Design/gh-pages/web%20images/witcher%20good%20quest.jpg">
+</p>
+#### Witcher 3 quests
 
 After all this, how can we wrap up all the information and set some guidelines to create good and compelling quests? I have gathered some advice from different articles and videos. Taking the best out of each tip, I will present you a compilation of important tips, you may already know or not, to follow, creating compelling side quests. Some of the tips will come from the great and only game designers of the Witcher
 
