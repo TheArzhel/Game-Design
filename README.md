@@ -1,6 +1,6 @@
 
 
-I am < https://www.linkedin.com/in/andr%C3%A9s-saladrigas-35a0a5107/>(Andres Saladrigas), student of the <https://www.citm.upc.edu/ing/estudis/graus-videojocs/>(Bachelor's Degree in Video Games by UPC at CITM). This content is generated for the second year's subject Project 2, under supervision of lecturer <https://es.linkedin.com/in/ricardpillosu>(Ricard Pillosu).
+I am <https://www.linkedin.com/in/andr%C3%A9s-saladrigas-35a0a5107/>(Andres Saladrigas), student of the <https://www.citm.upc.edu/ing/estudis/graus-videojocs/>(Bachelor's Degree in Video Games by UPC at CITM). This content is generated for the second year's subject Project 2, under supervision of lecturer <https://es.linkedin.com/in/ricardpillosu>(Ricard Pillosu).
 
 # Index
 
@@ -18,7 +18,6 @@ I am < https://www.linkedin.com/in/andr%C3%A9s-saladrigas-35a0a5107/>(Andres Sal
 12. **Webgraphy**
 13. **Videography**
 
-#
 
 # What is a quest?
 
@@ -78,7 +77,7 @@ First the will present a broad problem to a player in a way he may feel attracte
 
 When it comes to decision making in games, letting the player know the consequences of his action before is important. At the same time, is substantial for the player to have the opportunity to go around and change his mind midway through the quest. This usually involves presenting the player with a decisive factor previously unknown that will make him thought about his action. This will deeply affect the sensation of the player into a more realistic experience, in real life decisions have consequences and different perspective depending on who you ask, and the player knows this.
 
-1. **A way to guide the player through the experience, guiding him without him deliberately knowing so**
+2. **A way to guide the player through the experience, guiding him without him deliberately knowing so**
 
 This is a delicate one, depending on your game and your design criteria you may want to lead the player through the gameplay avoiding him to get lost thought the game and steps to follow. If desired so, using quest to guide him must be dealt with extreme caution, as players like to feel the freedom as we told on the point above.
 
@@ -92,7 +91,7 @@ If we a designers create quest for the purpose of moving the plyer to the next s
 
 And this lead us to the next point.
 
-1. **Creating a World that feels alive and develop the player immersion in the game even further**
+3. **Creating a World that feels alive and develop the player immersion in the game even further**
 
 When we talk of quest design is impossible not to talk about the big reference that is the Witcher games. For the ones that do not know, and are interested in quest design, I suggest them to play at least the last game and complete some quest with a designer point of view rather than from the player’s perspective.
 
@@ -106,13 +105,13 @@ If you read or ask anyone, they will tell you, that one of the most important th
 
 Each quest is a unique adventure that the player life’s, with a deeper narrative meaning. Some of this with even greater stories than most games.
 
-1. **Give the player many possible activities to kept him in game with a freedom of what to choose from**
+4. **Give the player many possible activities to kept him in game with a freedom of what to choose from**
 
 Doing many times the same thing, like grinding, or farming, it’s very annoying, and we live in a world where we have a lot of competitors. AS developers we want players to be involved in our games the higher amount of time possible, not only for the economical factor, but because if they stay with us it means we have done it correctly and they will keep with us in the future. That’s why designers create different kind of quest with different purpose to fulfill different needs for all the players. If he desires to explore or to collect items for crafting, he may have the possibility to do so and at the same time walk through and amazing narrative that will keep him interested in our game.
 
 For many online games, this is also a factor of profitability. Many of these depend on a public that is playing a game for years, and in some cases with monthly subscriptions and they need new content to stick around and complete, and with a variety of actives we assure they will stick around with us, rather than with any other entertainment method.
 
-1. **Supporting the main and core idea of the game.**
+5. **Supporting the main and core idea of the game.**
 
 With our game pillars set and known, we must decide to create an experience that reinforces the core of our narrative structure and that complies with the feeling we are willing to induce in the players mind.
 
