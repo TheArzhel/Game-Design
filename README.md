@@ -7,7 +7,7 @@ I am [Andres Saladrigas](https://www.linkedin.com/in/andr%C3%A9s-saladrigas-35a0
 1. [What is a quest?](https://thearzhel.github.io/Quest-Design/#what-is-a-quest)
 2. [Quests, types and orientation](https://thearzhel.github.io/Quest-Design/#quests-types-and-orientation)
 3. [What are quest for, and How to do it?](https://thearzhel.github.io/Quest-Design/#what-are-quest-for-and-how-to-do-it-correctly)
-4. [The for main EXs](https://thearzhel.github.io/Quest-Design/#the-for-main-exs)
+4. [The four main Xs](https://thearzhel.github.io/Quest-Design/#the-four-main-xs)
 5. [Quest vs mission](https://thearzhel.github.io/Quest-Design/#quest-vs-mission)
 6. [How to manage the player attention correctly](https://thearzhel.github.io/Quest-Design/#how-to-manage-the-player-attention-correctly)
 7. [Receiving quests](https://thearzhel.github.io/Quest-Design/#receiving-quests)
