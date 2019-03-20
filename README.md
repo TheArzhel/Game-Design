@@ -4,20 +4,21 @@ I am [Andres Saladrigas](https://www.linkedin.com/in/andr%C3%A9s-saladrigas-35a0
 
 # Index
 
-1. [What is a quest?](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#what-is-a-quest)
-2. [Quests, types and orientation](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#quests-types-and-orientation)
-3. [What are quest for, and How to do it?](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#what-are-quest-for-and-how-to-do-it-correctly)
-4. [The for main EXs](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#the-for-main-exs)
-5. [Quest vs mission](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#quest-vs-mission)
-6. [How to manage the player attention correctly](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#how-to-manage-the-player-attention-correctly)
-7. [Receiving quests](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#receiving-quests)
-8. [What you want to avoid](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#what-you-want-to-avoid)
-9. [How to come up with ideas](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#how-to-come-up-with-ideas)
-10. [How to manage the process of creating a quest?](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#how-to-manage-the-process-of-creating-a-quest)
-11. [How to make a good quest, wrap up](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#how-to-make-a-good-quest-wrap-up)
-12. [Webgraphy](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#webgraphy)
-13. [Videography](https://github.com/TheArzhel/Game-Design/blob/gh-pages/README.md#videography)
-14. [Exercise]()
+1. [What is a quest?](https://thearzhel.github.io/Quest-Design/#what-is-a-quest)
+2. [Quests, types and orientation](https://thearzhel.github.io/Quest-Design/#quests-types-and-orientation)
+3. [What are quest for, and How to do it?](https://thearzhel.github.io/Quest-Design/#what-are-quest-for-and-how-to-do-it-correctly)
+4. [The for main EXs](https://thearzhel.github.io/Quest-Design/#the-for-main-exs)
+5. [Quest vs mission](https://thearzhel.github.io/Quest-Design/#quest-vs-mission)
+6. [How to manage the player attention correctly](https://thearzhel.github.io/Quest-Design/#how-to-manage-the-player-attention-correctly)
+7. [Receiving quests](https://thearzhel.github.io/Quest-Design/#receiving-quests)
+8. [What you want to avoid](https://thearzhel.github.io/Quest-Design/#what-you-want-to-avoid)
+9. [How to come up with ideas](https://thearzhel.github.io/Quest-Design/#how-to-come-up-with-ideas)
+10. [How to manage the process of creating a quest?](https://thearzhel.github.io/Quest-Design/#how-to-manage-the-process-of-creating-a-quest)
+11. [How to make a good quest, wrap up](https://thearzhel.github.io/Quest-Design/#how-to-make-a-good-quest-wrap-up)
+12. [Webgraphy](https://thearzhel.github.io/Quest-Design/#webgraphy)
+13. [Videography](https://thearzhel.github.io/Quest-Design/#videography)
+14. [Exercise]( https://thearzhel.github.io/Quest-Design/#exercise)
+
 
 
 # What is a quest?
@@ -68,7 +69,7 @@ Quests are there because the world it’s alive, and everyone has something to s
 
 Be sure to be creative and not to fall into the last 5 main types. Create quest that go on and make the player explore more, look farther into the lore, see every detail in the game, and create meaning for the things in the map. Take advantage of your surroundings, people, and enemies and give them meaning through a quest. Your final goal as a designer it’s not for the player to arrive to the end, but to enjoy the ride that will mix your game with their reality, make him feel emotions and think about it like he will think about problems in the real world.
 
-# What are quest for and how to do it correctly?
+# What are quests for and how to do it correctly?
 
 
 Depending on what designers you ask you will get different answers. What most of them have in common are 4 main uses. Let’s tackle each one individually to expand our knowledge
@@ -84,6 +85,7 @@ Depending on what designers you ask you will get different answers. What most of
 
 
 Taking a quote from Chis Avellone, quest designer for fall out series:
+
 
 &quot;I think players should have freedom to create their own destiny. What you should be giving them is a playground for them to roleplay their opportunities&quot;
 
@@ -235,6 +237,11 @@ Then there are the Quest. Here we can find anything that has more of a narrative
 The main point here is to understand there are two ways to tackle a problem. Through missions or quest. From a quest design view is more beneficiate to go for quest, even if they are small, no need to go big, but give all the missions a meaning of being in the world by combing them an transforming them into a quest.
 
 If you find yourself with lots of task and missions but no real meaning, thing on a creative way of grouping them and transform them into a quest with more subtle way of giving objective. Give out the possibility of and adventure and an experience rather than just a couple of objective to fulfill in other to get something. Sure you will be giving out some kind of payment, because it’s natural that the world reacts positively to your effort, but once again, offer emotions not gear. It’s a game not a market.
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/TheArzhel/Quest-Design/gh-pages/web%20images/quest%20vs%20mission.png">
+</p>
+
 
 
 # How to manage the player attention correctly
